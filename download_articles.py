@@ -27,10 +27,10 @@ class UniverseTodayDownloader:
             user_agent = 'UniverseTodayArchiver/1.0'
             if contact_email:
                 user_agent += f' ({contact_email})'
-            if project_url:
-                user_agent += f' +{project_url}'
-            else:
-                user_agent += ' (Personal archival project)'
+            # Default to the project repository
+            if project_url is None:
+                project_url = 'https://github.com/stevenchalem/universe'
+            user_agent += f' +{project_url}'
 
         self.session.headers.update({
             'User-Agent': user_agent,
