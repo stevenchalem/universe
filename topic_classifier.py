@@ -91,6 +91,13 @@ class KeywordTopicClassifier:
         "intentions": [
             r"\b(plan|intend|goal|objective|purpose|aim|target|requirement|"
             r"specification|design|intended)\b"
+        ],
+        "people": [
+            r"\b(?:Dr\.|Prof\.|Professor)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)",
+            r"\b([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)\s+(?:said|told|explained|noted|added|stated)",
+            r"\baccording to\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)",
+            r"\b(?:led|directed|headed)\s+by\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)+)",
+            r"\b(?:researcher|scientist|astronomer|physicist|astronaut)\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)*)"
         ]
     }
 
@@ -402,7 +409,7 @@ def main():
         return
 
     # Get first few articles
-    html_files = list(articles_dir.glob("*.html"))[:5]
+    html_files = list(articles_dir.glob("*.html"))[:20]
 
     if not html_files:
         print("No HTML files found in articles/")

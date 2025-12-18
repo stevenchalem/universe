@@ -1,0 +1,1416 @@
+{
+  "organizations": {
+    "unique_count": 16,
+    "total_matches": 131192,
+    "top_100": [
+      {
+        "term": "nasa",
+        "count": 66297
+      },
+      {
+        "term": "team",
+        "count": 27371
+      },
+      {
+        "term": "esa",
+        "count": 10027
+      },
+      {
+        "term": "spacex",
+        "count": 9516
+      },
+      {
+        "term": "agency",
+        "count": 5990
+      },
+      {
+        "term": "company",
+        "count": 3186
+      },
+      {
+        "term": "boeing",
+        "count": 1803
+      },
+      {
+        "term": "collaboration",
+        "count": 1399
+      },
+      {
+        "term": "government",
+        "count": 1307
+      },
+      {
+        "term": "lockheed",
+        "count": 988
+      },
+      {
+        "term": "organization",
+        "count": 730
+      },
+      {
+        "term": "mission control",
+        "count": 648
+      },
+      {
+        "term": "partnership",
+        "count": 552
+      },
+      {
+        "term": "corporation",
+        "count": 502
+      },
+      {
+        "term": "institution",
+        "count": 474
+      },
+      {
+        "term": "consortium",
+        "count": 402
+      }
+    ]
+  },
+  "events": {
+    "unique_count": 19,
+    "total_matches": 132044,
+    "top_100": [
+      {
+        "term": "mission",
+        "count": 35823
+      },
+      {
+        "term": "launch",
+        "count": 25971
+      },
+      {
+        "term": "test",
+        "count": 9998
+      },
+      {
+        "term": "impact",
+        "count": 9280
+      },
+      {
+        "term": "discovery",
+        "count": 8397
+      },
+      {
+        "term": "observed",
+        "count": 7130
+      },
+      {
+        "term": "event",
+        "count": 7116
+      },
+      {
+        "term": "eclipse",
+        "count": 5370
+      },
+      {
+        "term": "detected",
+        "count": 5042
+      },
+      {
+        "term": "experiment",
+        "count": 3613
+      },
+      {
+        "term": "transit",
+        "count": 2568
+      },
+      {
+        "term": "happened",
+        "count": 2434
+      },
+      {
+        "term": "collision",
+        "count": 2378
+      },
+      {
+        "term": "occurred",
+        "count": 2241
+      },
+      {
+        "term": "landed",
+        "count": 1599
+      },
+      {
+        "term": "deployed",
+        "count": 1232
+      },
+      {
+        "term": "exploded",
+        "count": 910
+      },
+      {
+        "term": "docked",
+        "count": 489
+      },
+      {
+        "term": "crashed",
+        "count": 453
+      }
+    ]
+  },
+  "time": {
+    "unique_count": 3547,
+    "total_matches": 233909,
+    "top_100": [
+      {
+        "term": "today",
+        "count": 47853
+      },
+      {
+        "term": "may",
+        "count": 22540
+      },
+      {
+        "term": "july",
+        "count": 5364
+      },
+      {
+        "term": "billion years",
+        "count": 5164
+      },
+      {
+        "term": "march",
+        "count": 4845
+      },
+      {
+        "term": "april",
+        "count": 4482
+      },
+      {
+        "term": "june",
+        "count": 4250
+      },
+      {
+        "term": "2014",
+        "count": 4127
+      },
+      {
+        "term": "million years",
+        "count": 4050
+      },
+      {
+        "term": "august",
+        "count": 3764
+      },
+      {
+        "term": "2013",
+        "count": 3597
+      },
+      {
+        "term": "september",
+        "count": 3391
+      },
+      {
+        "term": "october",
+        "count": 3373
+      },
+      {
+        "term": "2016",
+        "count": 3363
+      },
+      {
+        "term": "2012",
+        "count": 3307
+      },
+      {
+        "term": "december",
+        "count": 3249
+      },
+      {
+        "term": "2015",
+        "count": 3225
+      },
+      {
+        "term": "january",
+        "count": 3180
+      },
+      {
+        "term": "november",
+        "count": 3131
+      },
+      {
+        "term": "years ago",
+        "count": 3087
+      },
+      {
+        "term": "2011",
+        "count": 3035
+      },
+      {
+        "term": "2017",
+        "count": 3018
+      },
+      {
+        "term": "century",
+        "count": 2595
+      },
+      {
+        "term": "february",
+        "count": 2584
+      },
+      {
+        "term": "2020",
+        "count": 2447
+      },
+      {
+        "term": "2010",
+        "count": 2314
+      },
+      {
+        "term": "2009",
+        "count": 2154
+      },
+      {
+        "term": "2018",
+        "count": 2092
+      },
+      {
+        "term": "friday",
+        "count": 2060
+      },
+      {
+        "term": "decade",
+        "count": 1974
+      },
+      {
+        "term": "2004",
+        "count": 1973
+      },
+      {
+        "term": "2008",
+        "count": 1792
+      },
+      {
+        "term": "2005",
+        "count": 1776
+      },
+      {
+        "term": "2006",
+        "count": 1649
+      },
+      {
+        "term": "monday",
+        "count": 1627
+      },
+      {
+        "term": "2007",
+        "count": 1554
+      },
+      {
+        "term": "2019",
+        "count": 1531
+      },
+      {
+        "term": "2021",
+        "count": 1508
+      },
+      {
+        "term": "2024",
+        "count": 1490
+      },
+      {
+        "term": "2003",
+        "count": 1476
+      },
+      {
+        "term": "sunday",
+        "count": 1475
+      },
+      {
+        "term": "2022",
+        "count": 1420
+      },
+      {
+        "term": "wednesday",
+        "count": 1385
+      },
+      {
+        "term": "2025",
+        "count": 1378
+      },
+      {
+        "term": "2023",
+        "count": 1340
+      },
+      {
+        "term": "thursday",
+        "count": 1262
+      },
+      {
+        "term": "saturday",
+        "count": 1260
+      },
+      {
+        "term": "tuesday",
+        "count": 1184
+      },
+      {
+        "term": "1000",
+        "count": 1064
+      },
+      {
+        "term": "2000",
+        "count": 960
+      },
+      {
+        "term": "2002",
+        "count": 771
+      },
+      {
+        "term": "2001",
+        "count": 723
+      },
+      {
+        "term": "1999",
+        "count": 685
+      },
+      {
+        "term": "tomorrow",
+        "count": 640
+      },
+      {
+        "term": "1998",
+        "count": 638
+      },
+      {
+        "term": "yesterday",
+        "count": 629
+      },
+      {
+        "term": "1995",
+        "count": 488
+      },
+      {
+        "term": "1969",
+        "count": 456
+      },
+      {
+        "term": "1997",
+        "count": 446
+      },
+      {
+        "term": "1500",
+        "count": 422
+      },
+      {
+        "term": "2026",
+        "count": 391
+      },
+      {
+        "term": "1972",
+        "count": 367
+      },
+      {
+        "term": "1990",
+        "count": 354
+      },
+      {
+        "term": "1200",
+        "count": 353
+      },
+      {
+        "term": "1996",
+        "count": 350
+      },
+      {
+        "term": "1994",
+        "count": 327
+      },
+      {
+        "term": "2030",
+        "count": 319
+      },
+      {
+        "term": "1989",
+        "count": 317
+      },
+      {
+        "term": "2029",
+        "count": 291
+      },
+      {
+        "term": "1986",
+        "count": 290
+      },
+      {
+        "term": "1961",
+        "count": 284
+      },
+      {
+        "term": "1979",
+        "count": 283
+      },
+      {
+        "term": "1100",
+        "count": 282
+      },
+      {
+        "term": "1960",
+        "count": 278
+      },
+      {
+        "term": "1980",
+        "count": 274
+      },
+      {
+        "term": "2028",
+        "count": 261
+      },
+      {
+        "term": "1992",
+        "count": 248
+      },
+      {
+        "term": "1977",
+        "count": 242
+      },
+      {
+        "term": "2027",
+        "count": 241
+      },
+      {
+        "term": "1966",
+        "count": 237
+      },
+      {
+        "term": "1976",
+        "count": 227
+      },
+      {
+        "term": "1991",
+        "count": 225
+      },
+      {
+        "term": "3000",
+        "count": 223
+      },
+      {
+        "term": "1967",
+        "count": 221
+      },
+      {
+        "term": "1970",
+        "count": 218
+      },
+      {
+        "term": "year ago",
+        "count": 218
+      },
+      {
+        "term": "1973",
+        "count": 210
+      },
+      {
+        "term": "1981",
+        "count": 210
+      },
+      {
+        "term": "1974",
+        "count": 210
+      },
+      {
+        "term": "1993",
+        "count": 207
+      },
+      {
+        "term": "1983",
+        "count": 197
+      },
+      {
+        "term": "1962",
+        "count": 197
+      },
+      {
+        "term": "1600",
+        "count": 188
+      },
+      {
+        "term": "5000",
+        "count": 186
+      },
+      {
+        "term": "1971",
+        "count": 185
+      },
+      {
+        "term": "1930",
+        "count": 181
+      },
+      {
+        "term": "1800",
+        "count": 180
+      },
+      {
+        "term": "1781",
+        "count": 167
+      },
+      {
+        "term": "1965",
+        "count": 165
+      },
+      {
+        "term": "1959",
+        "count": 161
+      }
+    ]
+  },
+  "geo": {
+    "unique_count": 25,
+    "total_matches": 248245,
+    "top_100": [
+      {
+        "term": "earth",
+        "count": 67313
+      },
+      {
+        "term": "mars",
+        "count": 41000
+      },
+      {
+        "term": "moon",
+        "count": 38831
+      },
+      {
+        "term": "jupiter",
+        "count": 13053
+      },
+      {
+        "term": "saturn",
+        "count": 10505
+      },
+      {
+        "term": "venus",
+        "count": 10421
+      },
+      {
+        "term": "region",
+        "count": 9321
+      },
+      {
+        "term": "crater",
+        "count": 9079
+      },
+      {
+        "term": "area",
+        "count": 6188
+      },
+      {
+        "term": "pluto",
+        "count": 5996
+      },
+      {
+        "term": "mercury",
+        "count": 5972
+      },
+      {
+        "term": "site",
+        "count": 4181
+      },
+      {
+        "term": "neptune",
+        "count": 3980
+      },
+      {
+        "term": "location",
+        "count": 3569
+      },
+      {
+        "term": "pole",
+        "count": 3108
+      },
+      {
+        "term": "uranus",
+        "count": 2948
+      },
+      {
+        "term": "zone",
+        "count": 2854
+      },
+      {
+        "term": "hemisphere",
+        "count": 2842
+      },
+      {
+        "term": "equator",
+        "count": 1635
+      },
+      {
+        "term": "mountain",
+        "count": 1547
+      },
+      {
+        "term": "landing site",
+        "count": 1191
+      },
+      {
+        "term": "valley",
+        "count": 979
+      },
+      {
+        "term": "latitude",
+        "count": 878
+      },
+      {
+        "term": "plain",
+        "count": 451
+      },
+      {
+        "term": "longitude",
+        "count": 403
+      }
+    ]
+  },
+  "quantities": {
+    "unique_count": 8978,
+    "total_matches": 35234,
+    "top_100": [
+      {
+        "term": "100 km",
+        "count": 312
+      },
+      {
+        "term": "10 km",
+        "count": 236
+      },
+      {
+        "term": "100 meters",
+        "count": 171
+      },
+      {
+        "term": "50 km",
+        "count": 170
+      },
+      {
+        "term": "1 km",
+        "count": 160
+      },
+      {
+        "term": "20 km",
+        "count": 159
+      },
+      {
+        "term": "10 meters",
+        "count": 153
+      },
+      {
+        "term": "5 km",
+        "count": 152
+      },
+      {
+        "term": "30 km",
+        "count": 148
+      },
+      {
+        "term": "200 km",
+        "count": 138
+      },
+      {
+        "term": "500 km",
+        "count": 126
+      },
+      {
+        "term": "400 km",
+        "count": 119
+      },
+      {
+        "term": "100 kilometers",
+        "count": 118
+      },
+      {
+        "term": "1 meter",
+        "count": 117
+      },
+      {
+        "term": "10 percent",
+        "count": 115
+      },
+      {
+        "term": "1 au",
+        "count": 110
+      },
+      {
+        "term": "20 meters",
+        "count": 106
+      },
+      {
+        "term": "300 km",
+        "count": 105
+      },
+      {
+        "term": "250 miles",
+        "count": 104
+      },
+      {
+        "term": "5 meters",
+        "count": 103
+      },
+      {
+        "term": "90 percent",
+        "count": 101
+      },
+      {
+        "term": "20 kilometers",
+        "count": 95
+      },
+      {
+        "term": "2 miles",
+        "count": 94
+      },
+      {
+        "term": "62 miles",
+        "count": 94
+      },
+      {
+        "term": "10 kilometers",
+        "count": 92
+      },
+      {
+        "term": "360 degree",
+        "count": 90
+      },
+      {
+        "term": "2 meters",
+        "count": 88
+      },
+      {
+        "term": "20 percent",
+        "count": 87
+      },
+      {
+        "term": "2 km",
+        "count": 87
+      },
+      {
+        "term": "15 km",
+        "count": 87
+      },
+      {
+        "term": "40 km",
+        "count": 86
+      },
+      {
+        "term": "3 meters",
+        "count": 84
+      },
+      {
+        "term": "3 miles",
+        "count": 83
+      },
+      {
+        "term": "8 km",
+        "count": 82
+      },
+      {
+        "term": "4 km",
+        "count": 81
+      },
+      {
+        "term": "30 meters",
+        "count": 79
+      },
+      {
+        "term": "80 percent",
+        "count": 78
+      },
+      {
+        "term": "70 percent",
+        "count": 76
+      },
+      {
+        "term": "12 miles",
+        "count": 76
+      },
+      {
+        "term": "200 meters",
+        "count": 76
+      },
+      {
+        "term": "60 miles",
+        "count": 73
+      },
+      {
+        "term": "600 km",
+        "count": 72
+      },
+      {
+        "term": "50 meters",
+        "count": 72
+      },
+      {
+        "term": "200 kilometers",
+        "count": 69
+      },
+      {
+        "term": "30 percent",
+        "count": 69
+      },
+      {
+        "term": "1 degree",
+        "count": 68
+      },
+      {
+        "term": "80 km",
+        "count": 68
+      },
+      {
+        "term": "6 miles",
+        "count": 68
+      },
+      {
+        "term": "100 light-years",
+        "count": 68
+      },
+      {
+        "term": "200 miles",
+        "count": 67
+      },
+      {
+        "term": "60 km",
+        "count": 67
+      },
+      {
+        "term": "30 kilometers",
+        "count": 66
+      },
+      {
+        "term": "14 miles",
+        "count": 66
+      },
+      {
+        "term": "50 percent",
+        "count": 66
+      },
+      {
+        "term": "1,000 km",
+        "count": 64
+      },
+      {
+        "term": "25 kilometers",
+        "count": 64
+      },
+      {
+        "term": "50 kilometers",
+        "count": 63
+      },
+      {
+        "term": "1 ton",
+        "count": 63
+      },
+      {
+        "term": "50 miles",
+        "count": 63
+      },
+      {
+        "term": "70 km",
+        "count": 62
+      },
+      {
+        "term": "500 kilometers",
+        "count": 62
+      },
+      {
+        "term": "300 meters",
+        "count": 62
+      },
+      {
+        "term": "100 percent",
+        "count": 60
+      },
+      {
+        "term": "6 km",
+        "count": 60
+      },
+      {
+        "term": "22 km",
+        "count": 60
+      },
+      {
+        "term": "5 miles",
+        "count": 60
+      },
+      {
+        "term": "4 miles",
+        "count": 60
+      },
+      {
+        "term": "500 meters",
+        "count": 57
+      },
+      {
+        "term": "3 km",
+        "count": 57
+      },
+      {
+        "term": "5 kilometers",
+        "count": 57
+      },
+      {
+        "term": "300 kilometers",
+        "count": 57
+      },
+      {
+        "term": "20 miles",
+        "count": 57
+      },
+      {
+        "term": "700 km",
+        "count": 56
+      },
+      {
+        "term": "10 miles",
+        "count": 56
+      },
+      {
+        "term": "100 miles",
+        "count": 56
+      },
+      {
+        "term": "150 km",
+        "count": 56
+      },
+      {
+        "term": "250 km",
+        "count": 55
+      },
+      {
+        "term": "2 kilometers",
+        "count": 55
+      },
+      {
+        "term": "25 miles",
+        "count": 55
+      },
+      {
+        "term": "10,000 km",
+        "count": 54
+      },
+      {
+        "term": "1000 km",
+        "count": 53
+      },
+      {
+        "term": "15 meters",
+        "count": 53
+      },
+      {
+        "term": "50 au",
+        "count": 52
+      },
+      {
+        "term": "15 miles",
+        "count": 52
+      },
+      {
+        "term": "60 percent",
+        "count": 52
+      },
+      {
+        "term": "30 miles",
+        "count": 52
+      },
+      {
+        "term": "5.5 km",
+        "count": 51
+      },
+      {
+        "term": "400 kilometers",
+        "count": 51
+      },
+      {
+        "term": "100 kg",
+        "count": 51
+      },
+      {
+        "term": "25 km",
+        "count": 51
+      },
+      {
+        "term": "22 kilometers",
+        "count": 50
+      },
+      {
+        "term": "140 meters",
+        "count": 50
+      },
+      {
+        "term": "3 kilometers",
+        "count": 50
+      },
+      {
+        "term": "1 mile",
+        "count": 49
+      },
+      {
+        "term": "16 miles",
+        "count": 49
+      },
+      {
+        "term": "600 miles",
+        "count": 49
+      },
+      {
+        "term": "40 meters",
+        "count": 49
+      },
+      {
+        "term": "400 miles",
+        "count": 48
+      },
+      {
+        "term": "100,000 light-years",
+        "count": 48
+      },
+      {
+        "term": "1,000 kilometers",
+        "count": 48
+      }
+    ]
+  },
+  "content": {
+    "unique_count": 16,
+    "total_matches": 122206,
+    "top_100": [
+      {
+        "term": "image",
+        "count": 26254
+      },
+      {
+        "term": "data",
+        "count": 23115
+      },
+      {
+        "term": "study",
+        "count": 21742
+      },
+      {
+        "term": "research",
+        "count": 18424
+      },
+      {
+        "term": "paper",
+        "count": 9619
+      },
+      {
+        "term": "video",
+        "count": 6838
+      },
+      {
+        "term": "article",
+        "count": 3769
+      },
+      {
+        "term": "photo",
+        "count": 3102
+      },
+      {
+        "term": "signal",
+        "count": 3001
+      },
+      {
+        "term": "report",
+        "count": 2394
+      },
+      {
+        "term": "communication",
+        "count": 1335
+      },
+      {
+        "term": "message",
+        "count": 894
+      },
+      {
+        "term": "publication",
+        "count": 594
+      },
+      {
+        "term": "transmission",
+        "count": 551
+      },
+      {
+        "term": "recording",
+        "count": 302
+      },
+      {
+        "term": "document",
+        "count": 272
+      }
+    ]
+  },
+  "artifacts": {
+    "unique_count": 17,
+    "total_matches": 119409,
+    "top_100": [
+      {
+        "term": "telescope",
+        "count": 24754
+      },
+      {
+        "term": "spacecraft",
+        "count": 23888
+      },
+      {
+        "term": "rocket",
+        "count": 12211
+      },
+      {
+        "term": "satellite",
+        "count": 10609
+      },
+      {
+        "term": "rover",
+        "count": 10398
+      },
+      {
+        "term": "camera",
+        "count": 7309
+      },
+      {
+        "term": "instrument",
+        "count": 5329
+      },
+      {
+        "term": "lander",
+        "count": 4856
+      },
+      {
+        "term": "probe",
+        "count": 4769
+      },
+      {
+        "term": "vehicle",
+        "count": 4623
+      },
+      {
+        "term": "module",
+        "count": 3455
+      },
+      {
+        "term": "equipment",
+        "count": 2319
+      },
+      {
+        "term": "tool",
+        "count": 1361
+      },
+      {
+        "term": "detector",
+        "count": 1011
+      },
+      {
+        "term": "antenna",
+        "count": 945
+      },
+      {
+        "term": "device",
+        "count": 875
+      },
+      {
+        "term": "sensor",
+        "count": 697
+      }
+    ]
+  },
+  "categories": {
+    "unique_count": 13,
+    "total_matches": 152267,
+    "top_100": [
+      {
+        "term": "star",
+        "count": 44929
+      },
+      {
+        "term": "planet",
+        "count": 34304
+      },
+      {
+        "term": "galaxy",
+        "count": 22397
+      },
+      {
+        "term": "comet",
+        "count": 12528
+      },
+      {
+        "term": "asteroid",
+        "count": 11880
+      },
+      {
+        "term": "type",
+        "count": 6920
+      },
+      {
+        "term": "nebula",
+        "count": 6239
+      },
+      {
+        "term": "exoplanet",
+        "count": 4892
+      },
+      {
+        "term": "kind",
+        "count": 3562
+      },
+      {
+        "term": "class",
+        "count": 2616
+      },
+      {
+        "term": "species",
+        "count": 1475
+      },
+      {
+        "term": "category",
+        "count": 520
+      },
+      {
+        "term": "genus",
+        "count": 5
+      }
+    ]
+  },
+  "collections": {
+    "unique_count": 11,
+    "total_matches": 25028,
+    "top_100": [
+      {
+        "term": "survey",
+        "count": 5423
+      },
+      {
+        "term": "constellation",
+        "count": 5366
+      },
+      {
+        "term": "array",
+        "count": 2817
+      },
+      {
+        "term": "series of",
+        "count": 2768
+      },
+      {
+        "term": "network",
+        "count": 1717
+      },
+      {
+        "term": "collection",
+        "count": 1518
+      },
+      {
+        "term": "group of",
+        "count": 1409
+      },
+      {
+        "term": "set of",
+        "count": 1402
+      },
+      {
+        "term": "catalog",
+        "count": 1212
+      },
+      {
+        "term": "archive",
+        "count": 865
+      },
+      {
+        "term": "database",
+        "count": 531
+      }
+    ]
+  },
+  "agreements": {
+    "unique_count": 9,
+    "total_matches": 4170,
+    "top_100": [
+      {
+        "term": "collaboration",
+        "count": 1399
+      },
+      {
+        "term": "contract",
+        "count": 1022
+      },
+      {
+        "term": "agreement",
+        "count": 591
+      },
+      {
+        "term": "partnership",
+        "count": 552
+      },
+      {
+        "term": "commitment",
+        "count": 275
+      },
+      {
+        "term": "treaty",
+        "count": 268
+      },
+      {
+        "term": "memorandum",
+        "count": 24
+      },
+      {
+        "term": "accord",
+        "count": 21
+      },
+      {
+        "term": "obligation",
+        "count": 18
+      }
+    ]
+  },
+  "intentions": {
+    "unique_count": 11,
+    "total_matches": 15842,
+    "top_100": [
+      {
+        "term": "design",
+        "count": 4004
+      },
+      {
+        "term": "target",
+        "count": 2921
+      },
+      {
+        "term": "plan",
+        "count": 2660
+      },
+      {
+        "term": "goal",
+        "count": 2470
+      },
+      {
+        "term": "purpose",
+        "count": 1302
+      },
+      {
+        "term": "intended",
+        "count": 835
+      },
+      {
+        "term": "aim",
+        "count": 693
+      },
+      {
+        "term": "objective",
+        "count": 549
+      },
+      {
+        "term": "intend",
+        "count": 196
+      },
+      {
+        "term": "requirement",
+        "count": 195
+      },
+      {
+        "term": "specification",
+        "count": 17
+      }
+    ]
+  }
+}
